@@ -486,3 +486,17 @@ nav ul li i{
         padding-bottom: 10px;
     }
 }
+
+@media screen and (min-width:1500px){
+    .box-img img{
+        width: 184px;
+        height: 100px;
+    }
+
+    .box-id p{
+        padding: 91px;
+    }
+    .buttom-content-left{
+        padding-bottom: 10px;
+    }
+}
